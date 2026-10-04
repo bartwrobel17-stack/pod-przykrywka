@@ -1,0 +1,10 @@
+export const site = { name:"Pod przykrywką", rating:"4,8", reviews:"2 025", price:"40–60 zł", category:"Kuchnia wegetariańska", address:"Więzienna 18/1, 50-120 Wrocław", phone:"71 747 00 19", hours:[["Poniedziałek","12:00–19:30"],["Wtorek","12:00–19:30"],["Środa","12:00–19:30"],["Czwartek","12:00–19:30"],["Piątek","12:00–20:00"],["Sobota","12:00–20:00"],["Niedziela","12:00–19:30"]], facebook:"https://facebook.com", maps:"https://www.google.com/maps/search/?api=1&query=Pod+przykrywką%2C+Więzienna+18%2F1%2C+Wrocław", mapEmbed:"https://www.google.com/maps?q=Wi%C4%99zienna%2018%2F1%2C%2050-120%20Wroc%C5%82aw&output=embed" };
+export const services=[["Pierogi Ruskie z tofu","klasyka w roślinnej odsłonie"],["Fuczki","chrupiące, kapuściane placki"],["Gołąbki wege mamy","domowy smak, który zostaje na dłużej"],["Barszcz","intensywny, aromatyczny i rozgrzewający"],["Zupy sezonowe","codziennie coś, na co warto wrócić"],["Kompot","domowy akcent do obiadu"]];
+export const reviews=[["Lokalny przewodnik","Wyśmienite jedzenie i przemiła obsługa. Spróbowaliśmy zup oraz dań głównych i byliśmy zachwyceni."],["Pieter Pan","Barszcz jest przepyszny. Smak jak u babci, 10/10."],["Tajna Agentka","Ogórkowa, strogonow, gołąbki i pierogi z wiśnią. Jest po co wracać."]];
+export const defaultGallery=[
+["https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=1200&q=85","Pierogi"],
+["https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=85","Zupa"],
+["https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=1200&q=85","Roślinnie"],
+["https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=85","Świeżo"],
+["https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=85","Na miejscu"],
+["https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=1200&q=85","Warzywa"]];
